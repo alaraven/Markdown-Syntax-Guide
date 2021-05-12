@@ -1,5 +1,5 @@
 # Basic Syntax Markdown Key
-### By: Ala Raven
+
 **Resources:** [markdownguide.org](https://www.markdownguide.org/cheat-sheet/), [dillinger.io](https://dillinger.io/)
 - ***Backquotes** are used when entering **code** (\`). Anything within the quotations will not be effected by the markdown rules and shows up in red. The markdown result will be shown below the code.*
 - *For a **block of code (multi-line)** you can use (```) at the beginning and end of the code.*
